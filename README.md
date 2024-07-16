@@ -19,3 +19,15 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 4:** [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 
 **Problem 5:** [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+
+## Day 2: 16th July 2024
+
+**Problem 6:** [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+
+**Problem 7:** [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)
+
+**Problem 8:** [Two Sum](https://leetcode.com/problems/two-sum/)
+
+**Problem 9:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+
+**Problem 10:** [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)

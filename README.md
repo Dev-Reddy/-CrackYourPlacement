@@ -31,3 +31,15 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 9:** [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 **Problem 10:** [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
+
+## Day 3: 17th July 2024
+
+**Problem 11:** [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+**Problem 12:** [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+
+**Problem 13:** [Three Sum](https://leetcode.com/problems/3sum/)
+
+**Problem 14:** [Four Sum](https://leetcode.com/problems/4sum/)
+
+**Problem 15:** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)

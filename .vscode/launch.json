@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": ".",
-      "program": "build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day4/Array/16.SubarraySumEqualsK",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day4/Array/16.SubarraySumEqualsK/build/Debug/outDebug"
     }
   ]
 }

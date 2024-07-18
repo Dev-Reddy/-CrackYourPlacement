@@ -43,3 +43,13 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 14:** [Four Sum](https://leetcode.com/problems/4sum/)
 
 **Problem 15:** [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)
+
+## Day 4: 18th July 2024
+
+**Problem 16:** [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
+
+**Problem 17:** [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+
+**Problem 18:** [Word Search](https://leetcode.com/problems/word-search/)
+
+**Problem 19:** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)

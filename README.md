@@ -53,3 +53,13 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 18:** [Word Search](https://leetcode.com/problems/word-search/)
 
 **Problem 19:** [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+## Day 5: 19th July 2024
+
+**Problem 20:** [Jump Game](https://leetcode.com/problems/jump-game/)
+
+**Problem 21:** [Majority Element](https://leetcode.com/problems/majority-element/)
+
+**Problem 22:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+**Problem 23:** [Print All Duplicate Characters in String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)

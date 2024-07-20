@@ -63,3 +63,15 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 22:** [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 **Problem 23:** [Print All Duplicate Characters in String](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/)
+
+## Day 6: 20th July 2024
+
+**Problem 24:** [Product Array Puzzle](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1)
+
+**Problem 25:** [Permutate two arrays such that sum of every pair is greater or equal to K](https://www.geeksforgeeks.org/permute-two-arrays-sum-every-pair-greater-equal-k/)
+
+**Problem 26:** [Permutation in array](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1)
+
+**Problem 27:** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+**Problem 28:** [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)

@@ -75,3 +75,30 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 27:** [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 **Problem 28:** [Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)
+
+## Day 7: 21st July 2024
+
+**Problem 29:** [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+**Problem 30:** [Remove Duplicates From Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+
+**Problem 31:** [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/)
+
+**Problem 32:** [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
+
+**Problem 33:** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+<!-- 29.Linked List Cycle
+21 July
+1 minute ago
+30.Remove Duplicates From Sorted List
+21 July
+1 minute ago
+31.Sort a linked list of 0s, 1s and 2s
+21 July
+1 minute ago
+32.Remove Linked List Elements
+21 July
+1 minute ago
+33. Merger Two Sorted Lists
+ -->

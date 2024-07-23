@@ -27,7 +27,7 @@ public:
                 i++;
                 j--;
             }
-            else
+            else // when you find a mismatch
             {
                 return isValid(s, i + 1, j) || isValid(s, i, j - 1);
             }

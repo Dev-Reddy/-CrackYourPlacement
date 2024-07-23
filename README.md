@@ -87,3 +87,15 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 32:** [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
 
 **Problem 33:** [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+## Day 8: 22nd July 2024
+
+**Problem 34:** [Find Pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1)
+
+**Problem 35:** [Multiply Two LLs](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1)
+
+**Problem 36:** [Same Tree](https://leetcode.com/problems/same-tree/)
+
+**Problem 37:** [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
+
+**Problem 38:** [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)

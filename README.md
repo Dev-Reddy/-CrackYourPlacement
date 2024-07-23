@@ -99,3 +99,15 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 37:** [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/)
 
 **Problem 38:** [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+
+## Day 9: 23rd July 2024
+
+**Problem 39:** [Path Sum](https://leetcode.com/problems/path-sum/)
+
+**Problem 40:** [Count BST nodes that lie in a given range](https://www.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1)
+
+**Problem 41:** [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+
+**Problem 42:** [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+
+**Problem 43:** [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)

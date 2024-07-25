@@ -111,3 +111,13 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 42:** [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 **Problem 43:** [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)
+
+## Day 10: 24th July 2024
+
+**Problem 44:** [Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
+
+**Problem 45:** [Find Peak Element](https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/)
+
+**Problem 46:** [Check if reversing a sub array make the array sorted](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/)
+
+**Problem 47:** [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)

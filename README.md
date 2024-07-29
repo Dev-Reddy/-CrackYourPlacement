@@ -121,3 +121,41 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 46:** [Check if reversing a sub array make the array sorted](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/)
 
 **Problem 47:** [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+## Day 11: 25th July 2024
+
+**Problem 48:** [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+
+**Problem 49:** [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+**Problem 50:** [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+
+## Day 12: 26th July 2024
+
+**Problem 51:** [Add Binary](https://leetcode.com/problems/add-binary/)
+
+**Problem 52:** [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+
+**Problem 53:** [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
+
+**Problem 54:** [Ceiling in a sorted array](https://www.geeksforgeeks.org/ceiling-in-a-sorted-array/)
+
+## Day 13: 27th July 2024
+
+**Problem 55:** [Subsets](https://leetcode.com/problems/subsets/)
+
+**Problem 56:** [Subsets II](https://leetcode.com/problems/subsets-ii/)
+
+**Problem 57:** [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/)
+
+**Problem 58:** [All Unique Permutations of Array](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0)
+
+## Day 14: 28th July 2024
+
+**Problem 59:** [Game of Life](https://leetcode.com/problems/game-of-life/)
+
+**Problem 60:** [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+
+**Problem 61:** [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+
+**Problem 62:** [Delete node having greater value on right](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1)

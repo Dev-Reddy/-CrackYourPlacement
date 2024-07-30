@@ -169,3 +169,13 @@ I will be updating this repository daily with the problems I solve. I will also 
 **Problem 65:** [M-Coloring Problem](https://practice.geeksforgeeks.org/problems/m-coloring-problem-1587115620/1)
 
 **Problem 66:** [N-Queens](https://leetcode.com/problems/n-queens/)
+
+## Day 16: 30th July 2024
+
+**Problem 67:** [Combinations](https://leetcode.com/problems/combinations/)
+
+**Problem 68:** [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/)
+
+**Problem 69:** [Permutations II](https://leetcode.com/problems/permutations-ii/)
+
+**Problem 70:** [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)

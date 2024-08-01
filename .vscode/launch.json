@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day17/Backtracking/71.Unique Paths III",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day17/Backtracking/71.Unique Paths III/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day18/1.Backtracking/75.Find paths from corner cell to middle cell in maze",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day18/1.Backtracking/75.Find paths from corner cell to middle cell in maze/build/Debug/outDebug"
     }
   ]
 }

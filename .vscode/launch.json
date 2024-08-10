@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day25/DP/102.Best Time to Buy and Sell Stock IV",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day25/DP/102.Best Time to Buy and Sell Stock IV/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day27/DP/110.Minimum Cost to Merge Stones",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day27/DP/110.Minimum Cost to Merge Stones/build/Debug/outDebug"
     }
   ]
 }

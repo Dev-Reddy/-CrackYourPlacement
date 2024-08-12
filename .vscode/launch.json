@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day27/DP/110.Minimum Cost to Merge Stones",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day27/DP/110.Minimum Cost to Merge Stones/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day29/String/118.Print Anagrams Together",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day29/String/118.Print Anagrams Together/build/Debug/outDebug"
     }
   ]
 }

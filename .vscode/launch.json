@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day29/String/118.Print Anagrams Together",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day29/String/118.Print Anagrams Together/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day33/Greedy/134.Gas Station",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day33/Greedy/134.Gas Station/build/Debug/outDebug"
     }
   ]
 }

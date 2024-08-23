@@ -38,10 +38,7 @@
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [],
-  "C_Cpp_Runner.includeSearch": [
-    "*",
-    "**/*"
-  ],
+  "C_Cpp_Runner.includeSearch": ["*", "**/*"],
   "C_Cpp_Runner.excludeSearch": [
     "**/build",
     "**/build/**",
@@ -82,6 +79,7 @@
     "unordered_set": "cpp",
     "__node_handle": "cpp",
     "forward_list": "cpp",
-    "__locale": "cpp"
+    "__locale": "cpp",
+    "__bit_reference": "cpp"
   }
 }

@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day37/1.Matrix/156.Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day37/1.Matrix/156.Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day42/Tree/191.Lowest Common Ancestor of a Binary Search Tree",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day42/Tree/191.Lowest Common Ancestor of a Binary Search Tree/build/Debug/outDebug"
     }
   ]
 }

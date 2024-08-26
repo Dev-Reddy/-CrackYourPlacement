@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day42/Tree/191.Lowest Common Ancestor of a Binary Search Tree",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day42/Tree/191.Lowest Common Ancestor of a Binary Search Tree/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day43/Tree/197.Binary Search Tree Iterator",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day43/Tree/197.Binary Search Tree Iterator/build/Debug/outDebug"
     }
   ]
 }

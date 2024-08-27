@@ -38,10 +38,7 @@
   "C_Cpp_Runner.compilerArgs": [],
   "C_Cpp_Runner.linkerArgs": [],
   "C_Cpp_Runner.includePaths": [],
-  "C_Cpp_Runner.includeSearch": [
-    "*",
-    "**/*"
-  ],
+  "C_Cpp_Runner.includeSearch": ["*", "**/*"],
   "C_Cpp_Runner.excludeSearch": [
     "**/build",
     "**/build/**",
@@ -83,6 +80,15 @@
     "__node_handle": "cpp",
     "forward_list": "cpp",
     "__locale": "cpp",
-    "__bit_reference": "cpp"
+    "__bit_reference": "cpp",
+    "fstream": "cpp",
+    "future": "cpp",
+    "istream": "cpp",
+    "optional": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "streambuf": "cpp",
+    "tuple": "cpp",
+    "variant": "cpp"
   }
 }

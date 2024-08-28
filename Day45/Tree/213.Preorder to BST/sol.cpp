@@ -2,23 +2,19 @@ class Solution
 {
 public:
     // Function that constructs BST from its preorder traversal.
-    Node *construct(int arr[], int l, int h)
+    Node *f(int arr[], int size, int low, int up, int &index)
     {
-        if (l > h)
+        if (index == size || arr[index] < low || arr[index] > up)
             return NULL;
-        Node *root = newNode(arr[l]);
-        int i = l + 1;
-        while (arr[i] < arr[l] && i <= h)
-            i++;
-        root->left = construct(arr, l + 1, i - 1);
-        root->right = construct(arr, i, h);
+        Node *root = newNode(arr[index++]);
+        root->left = f(arr, size, low, root->data, index);
+        root->right = f(arr, size, root->data, up, index);
         return root;
     }
-
-    Node *post_order(int pre[], int n)
+    Node *Bst(int pre[], int size)
     {
-        if (n == 0)
-            return NULL;
-        return construct(pre, 0, n - 1);
+        int index = 0;
+        Node *root = f(pre, size, INT_MIN, INT_MAX, index);
+        return root;
     }
 };

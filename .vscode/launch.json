@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day44/Tree/203.Path Sum III",
-      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day44/Tree/203.Path Sum III/build/Debug/outDebug"
+      "cwd": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day45/Tree/209.Maximum Width of Binary Tree",
+      "program": "/Users/dev/Developer/Coding/ArshGoyalDSAChallenge/Day45/Tree/209.Maximum Width of Binary Tree/build/Debug/outDebug"
     }
   ]
 }
